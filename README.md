@@ -3,14 +3,13 @@ Power BI Dashboard for visualization of customer churn
 
 ## Problem Statement :
 The purpose of this task is to:
-
-## Define proper KPI's
-1. Create a dashboard for the retention manager reflecting the KPI's
-2. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
-3. Customers who left within the last month
-4. Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-5. Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
-6. Demographic info about customers – gender, age range, and if they have partners and dependents
+1. Define proper KPI's
+2. Create a dashboard for the retention manager reflecting the KPI's
+3. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+4. Customers who left within the last month
+5. Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+6. Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+7. Demographic info about customers – gender, age range, and if they have partners and dependents
 
 ## Insights and Recommendations : 
 1. Customers who have opted for the Two-Year contract have demonstrated a longer tenure with the company, whereas the majority of customers on the Month-to-Month contract are relatively new. Based on the analysis, the company is at a potential risk of losing these recently joined customers, particularly if they decide to continue with the Month-to-Month contract.
